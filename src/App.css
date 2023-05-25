@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+
+}
+nav {
+    background-color: #79899f;
+
+}
+nav a{
+
+    padding: 30px;
+    color: #efe1a5;
+}
+
+.active {
+    text-decoration: none;
+    background-color: #282c34;
+    color: aquamarine;
+}
+a{
+    padding: 20px;
+    color: #adb4bd;
+}
