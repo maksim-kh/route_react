@@ -29,3 +29,7 @@ const SingleCourse = () => {
     )
 }
 export default SingleCourse
+
+function ddrr (){
+    return (alert('hello'))
+}
